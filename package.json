@@ -1,0 +1,16 @@
+{
+    "name": "clean-arch-customer-api",
+    "version": "1.0.0",
+    "description": "demo project mimicking the clean architecture",
+    "main": "index.ts",
+    "author": "otumian-empire <popecan1000@gmail.com>",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "joi": "^17.9.2",
+        "pg": "^8.11.0",
+        "typeorm": "^0.3.16"
+    }
+}
