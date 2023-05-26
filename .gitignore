@@ -1,3 +1,6 @@
+cspell.json
+dist
+
 .vscode/
 build/
 tmp/
